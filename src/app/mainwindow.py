@@ -28,7 +28,7 @@ from ..paths import PART_PREVIEW_DIR, PLATE_PREVIEW_DIR, ROUTER_PREVIEW_DIR, ICO
 from .translations import main_window
 from .logging import logger
 
-APP_TITLE = "EasyCNC"
+APP_TITLE = "RRCNC"
 MIN_WIDTH, MIN_HEIGHT = 1200, 900
 
 class MainWindow(QMainWindow):
